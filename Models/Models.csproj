@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Models\Models.csproj" />
+    <Folder Include="CharacterItems\CaracterWeapons\" />
   </ItemGroup>
 
 </Project>
